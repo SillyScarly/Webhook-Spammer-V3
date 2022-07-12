@@ -5,4 +5,4 @@ https://discord.com/api/webhooks/996243504579739668/M6mYsvktt-5nIpekuYz3jD_NqEEt
 https://discord.com/api/webhooks/996243529288396881/2fZg0SIuq5Xzf3IfiCCy2hmxvtVS_40fO2kJ4P91i92oYgk66CKQY-EGT0WgbMkS_bf2
 https://discord.com/api/webhooks/996243567565611079/o3PX78tSE3-hinHqwtRPLB9kgOsNEXbHnM6pEWiY1Um6cNkjHe_1jVMd7Z4x7cZYnHaw
 
-Delete These Webhooks and Replace them with yours
+Delete These Webhooks and Replace them with yours. These are just examples
