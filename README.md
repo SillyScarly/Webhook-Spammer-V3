@@ -1,7 +1,7 @@
 # Webhook-Spammer-V3
 
 ------------------------------------------------------------------------------------
-First you need to install the required modules into cmd. The Required modules will be listed below.
+First you need to install the required modules into cmd. The required modules will be listed below.
 ------------------------------------------------------------------------------------
 -Pip install requests
 -Pip install Fore
