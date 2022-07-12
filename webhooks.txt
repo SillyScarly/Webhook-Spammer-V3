@@ -1,0 +1,8 @@
+https://discord.com/api/webhooks/996243392394711120/qefhplZ7zrk4ChI9u7Sg7kM9xZ9YZa35in27alPcIJMXAptc4loCxxYuM4KQbHq7r1lk
+https://discord.com/api/webhooks/996243430583840838/su0xPPy1rvdg4qdFlFyzsNnedMvFHSdo3Q3YdDo5FH07g-ZQ5bpQGxzL-xP5CLwMFSBZ
+https://discord.com/api/webhooks/996243470786236526/O5VS7vhrKwJh-CO54MNQcMmFgpkq9F5F038UcNajNPU3q4K8P2xwQ6jJx17dAttVAopv
+https://discord.com/api/webhooks/996243504579739668/M6mYsvktt-5nIpekuYz3jD_NqEEtS4XmCIsiLo7YY38WaYxpWMAuz0agzDPKVW35f4CI
+https://discord.com/api/webhooks/996243529288396881/2fZg0SIuq5Xzf3IfiCCy2hmxvtVS_40fO2kJ4P91i92oYgk66CKQY-EGT0WgbMkS_bf2
+https://discord.com/api/webhooks/996243567565611079/o3PX78tSE3-hinHqwtRPLB9kgOsNEXbHnM6pEWiY1Um6cNkjHe_1jVMd7Z4x7cZYnHaw
+
+Delete These Webhooks and Replace them with yours
