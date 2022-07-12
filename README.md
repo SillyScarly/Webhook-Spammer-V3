@@ -1,4 +1,4 @@
-# Webhook-Spammer-V3
+# WebhookSpammer-V3
 
 ------------------------------------------------------------------------------------
 First you need to install the required modules into cmd. The required modules will be listed below.
